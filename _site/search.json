@@ -7,20 +7,6 @@
     "text": "Travel\nWelcome to my travel blog. Here I share my travel experiences and stories."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Personal Website",
-    "section": "",
-    "text": "Welcome\nWelcome to my personal website. Here you will find information about my academic work, travel experiences, and more."
-  },
-  {
-    "objectID": "about-index.html",
-    "href": "about-index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "About Me\nThis section contains information about me, my background, and my interests."
-  },
-  {
     "objectID": "academic-index.html",
     "href": "academic-index.html",
     "title": "academic-index",
@@ -42,17 +28,17 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
-    "objectID": "Site.html",
-    "href": "Site.html",
-    "title": "Site",
+    "objectID": "about-index.html",
+    "href": "about-index.html",
+    "title": "About Me",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "About Me\nThis section contains information about me, my background, and my interests."
   },
   {
-    "objectID": "Site.html#quarto",
-    "href": "Site.html#quarto",
-    "title": "Site",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome\nWelcome to my personal website. Here you will find information about my academic work, travel experiences, and more."
   }
 ]
