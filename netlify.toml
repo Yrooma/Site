@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.2.313/quarto-1.2.313-linux-amd64.tar.gz && tar -xzf quarto-1.2.313-linux-amd64.tar.gz && ./quarto-1.2.313/bin/quarto render"
+  command = "sudo apt-get update && sudo apt-get install -y r-base && wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.2.313/quarto-1.2.313-linux-amd64.tar.gz && tar -xzf quarto-1.2.313-linux-amd64.tar.gz && ./quarto-1.2.313/bin/quarto render"
 
 [context.production.environment]
   QUARTO_VERSION = "latest"
