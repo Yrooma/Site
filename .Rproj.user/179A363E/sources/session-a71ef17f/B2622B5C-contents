@@ -1,0 +1,12 @@
+[build]
+  publish = "_site"
+  command = "quarto render"
+
+[context.production.environment]
+  QUARTO_VERSION = "latest"
+
+[[plugins]]
+  package = "@netlify/plugin-quarto"
+
+[plugins.inputs]
+  version = "latest"
